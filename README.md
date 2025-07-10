@@ -63,8 +63,7 @@ With millions of product reviews on platforms like Amazon, manually extracting m
 - **Summaries** generated were grammatically correct and semantically rich.
 - **ROUGE-L F1** was low (`0.0924`) due to high abstraction.
 - **BERTScore F1** was strong: `0.8549`
-![Training and Evaluation Loss]([https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/loss-curve.png](https://github.com/sukarnhans/Text-Summarization-using-NLP/blob/main/image.png))
----
+(Text-Summarization-using-NLP/image.png)
 
 ## ✨ Sample Output
 
