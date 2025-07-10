@@ -17,6 +17,9 @@ With millions of product reviews on platforms like Amazon, manually extracting m
 - 📊 **Metrics**: Eval Loss, ROUGE-L, BERTScore
 - 🎯 **BERTScore F1**: `0.8549` – indicating strong semantic similarity
 
+- ![Project Banner](image.png)
+
+
 ---
 
 ## 📁 Dataset Overview
@@ -63,7 +66,6 @@ With millions of product reviews on platforms like Amazon, manually extracting m
 - **Summaries** generated were grammatically correct and semantically rich.
 - **ROUGE-L F1** was low (`0.0924`) due to high abstraction.
 - **BERTScore F1** was strong: `0.8549`
-![Project Banner](image.png)
 
 ## ✨ Sample Output
 
